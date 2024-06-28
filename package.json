@@ -1,0 +1,17 @@
+{
+  "name": "suyul",
+  "version": "1.0.0",
+  "description": "등차수열 생성기",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "author": "wh",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.2",
+    "electron-builder": "^24.13.3"
+  }
+}
